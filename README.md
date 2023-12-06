@@ -38,3 +38,23 @@ You can purchase items by combining letters or selling letters. Items include a 
 <img src="https://github.com/raphy0316/WhoAmI/assets/26518769/4311ef9b-49cd-4034-9ab3-8c799baa1f14" width="369" height="162"/>
  <br>
  When you pass stage 3, the game ends with an ending animation.
+<br><br>
+How to play? <br>
+You can play this game through the FullScreen-Engine Final or the WindowedView-Engine Final.
+<br>
+<br>
+Manual
+
+
+Store stage<br>
+a,d - move<br>
+space - jump<br>
+z - open store, open monument<br>
+
+
+
+Running stage<br>
+↓ - slide<br>
+space - jump<br>
+Q - Use postion to heal hp<br>
+space space - double jump<br>
