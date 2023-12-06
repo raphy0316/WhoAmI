@@ -13,12 +13,15 @@ After acquiring letters while running, the letters can be combined into adjectiv
 
 <br>Stage1
 https://github.com/raphy0316/WhoAmI/assets/26518769/50299cbb-f53d-48d5-8a3f-104f44c933f9
+![5sStage1](https://github.com/raphy0316/WhoAmI/assets/26518769/037b5c1b-459a-4066-a6d1-51d66016d31e)
 
 <br>Stage2
 https://github.com/raphy0316/WhoAmI/assets/26518769/ba250f40-879f-4313-b65b-b128b6b3b10a
+![5sStage2](https://github.com/raphy0316/WhoAmI/assets/26518769/56f6be57-364e-4f1b-991e-2da093560120)
 
 <br>Stage3
 https://github.com/raphy0316/WhoAmI/assets/26518769/51098035-6943-4a63-891d-0e9a85fcf7bb
+![5sStage3](https://github.com/raphy0316/WhoAmI/assets/26518769/6e26a10c-4b0c-427c-8d5d-c245296efa7e)
 
 
 <Store>
@@ -26,9 +29,8 @@ https://github.com/raphy0316/WhoAmI/assets/26518769/51098035-6943-4a63-891d-0e9a
 <img src="https://github.com/raphy0316/WhoAmI/assets/26518769/5feebe47-3069-4118-b0aa-cfac1082ab4f" width="369" height="162"/>
 <img src="https://github.com/raphy0316/WhoAmI/assets/26518769/af1141a7-6efa-4a39-a8a9-3bb113960b0c" width="369" height="162"/>
 <img src="https://github.com/raphy0316/WhoAmI/assets/26518769/686065b8-0655-4f2e-99d9-d266bc0ebb13" width="369" height="162"/>
- <br>
-You can purchase items by combining letters or selling letters. Items include a potion that restores Hp, a scroll that randomly informs you of a combination of letters that can enhance a character, and a random box.
 
+You can purchase items by combining letters or selling letters. Items include a potion that restores Hp, a scroll that randomly informs you of a combination of letters that can enhance a character, and a random box.
  
   <br>
  <br>
