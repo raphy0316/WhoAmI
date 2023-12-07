@@ -19,6 +19,7 @@ https://github.com/raphy0316/WhoAmI/assets/26518769/a22ca0fa-38d5-4cd0-aeb8-ebd6
 
 https://github.com/raphy0316/WhoAmI/assets/26518769/e8e0285a-11b7-458c-ad88-19fb7030b386
 
+Trap Obstacle<br>
 ![WhoAmI_Stage2_gif](https://github.com/raphy0316/WhoAmI/assets/26518769/9274f5a3-0018-408b-8939-93128a1bb7e4)
 
 <br>Stage3
