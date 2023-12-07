@@ -13,21 +13,18 @@ After acquiring letters while running, the letters can be combined into adjectiv
 
 <br>Stage1
 
-https://github.com/raphy0316/WhoAmI/assets/26518769/50299cbb-f53d-48d5-8a3f-104f44c933f9
-
-![5sStage1](https://github.com/raphy0316/WhoAmI/assets/26518769/037b5c1b-459a-4066-a6d1-51d66016d31e)
+https://github.com/raphy0316/WhoAmI/assets/26518769/a22ca0fa-38d5-4cd0-aeb8-ebd68e99b67a
 
 <br>Stage2
 
-https://github.com/raphy0316/WhoAmI/assets/26518769/ba250f40-879f-4313-b65b-b128b6b3b10a
+https://github.com/raphy0316/WhoAmI/assets/26518769/e8e0285a-11b7-458c-ad88-19fb7030b386
 
-![5sStage2](https://github.com/raphy0316/WhoAmI/assets/26518769/56f6be57-364e-4f1b-991e-2da093560120)
+![WhoAmI_Stage2_gif](https://github.com/raphy0316/WhoAmI/assets/26518769/9274f5a3-0018-408b-8939-93128a1bb7e4)
 
 <br>Stage3
 
-https://github.com/raphy0316/WhoAmI/assets/26518769/51098035-6943-4a63-891d-0e9a85fcf7bb
 
-![5sStage3](https://github.com/raphy0316/WhoAmI/assets/26518769/6e26a10c-4b0c-427c-8d5d-c245296efa7e)
+https://github.com/raphy0316/WhoAmI/assets/26518769/04d5b877-db44-4aeb-8953-6844affeb57e
 
 
 <Store>
