@@ -1,4 +1,7 @@
 # WhoAmI
+<br>
+2018 Digital Contest Gold Award<br>
+<br>
 Game Overview:<br>
 Identity Run is a console-based running game developed on a personal engine, offering a unique gameplay experience. Collect letters during the run to form adjectives, which can be used to enhance and strengthen the character. The game unfolds with the protagonist, an unnamed monster, on a journey to discover its identity.<br>
 <br>
