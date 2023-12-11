@@ -1,66 +1,59 @@
 # WhoAmI
-Story<br>
-A game where an unnamed monster finds his identity
-
-Game Description<br>
-After acquiring letters while running, the letters can be combined into adjectives. It is a running game in which combined adjectives are installed to strengthen the character. For example, combining the letters "fast" speeds up the character's running.
- 
- <br>
- Loading Page <br>
- <img src="https://github.com/raphy0316/WhoAmI/assets/26518769/6f914b76-bfa3-4522-89cb-0cd213cdb17a" width="553" height="243"/><br>
+Game Overview:<br>
+Identity Run is a console-based running game developed on a personal engine, offering a unique gameplay experience. Collect letters during the run to form adjectives, which can be used to enhance and strengthen the character. The game unfolds with the protagonist, an unnamed monster, on a journey to discover its identity.<br>
+<br>
+Features:<br>
+1, Letter Combination:<br>
+Acquire letters during the run and combine them to create adjectives.<br>
+Combined adjectives enhance the character's abilities. For instance, combining "fast" increases the running speed.<br>
+2, Story:<br>
+Unfold the narrative of the game as the unnamed monster seeks to discover its identity.<br>
+3, Loading Page:<br>
+Provides a visual and thematic loading screen for an immersive experience.<br>
+<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/6f914b76-bfa3-4522-89cb-0cd213cdb17a" width="553" height="243"/><br>
  Home <br>
 <img src="https://github.com/raphy0316/WhoAmI/assets/26518769/92fd0329-1aec-4222-8e2e-50c7d3ff4984" width="553" height="243"/><br>
-
-<br>Stage1
+4, Stages:<br>
+Stage 1:<br>
 
 https://github.com/raphy0316/WhoAmI/assets/26518769/a22ca0fa-38d5-4cd0-aeb8-ebd68e99b67a
 
-<br>Stage2
+<br>Stage 2:
 
-https://github.com/raphy0316/WhoAmI/assets/26518769/e8e0285a-11b7-458c-ad88-19fb7030b386
+[Video: DigitalContest.2.mp4](https://github.com/raphy0316/WhoAmI/assets/26518769/e8e0285a-11b7-458c-ad88-19fb7030b386)
 
-Trap Obstacle<br>
+<br>Trap<br>
 ![WhoAmI_Stage2_gif](https://github.com/raphy0316/WhoAmI/assets/26518769/9274f5a3-0018-408b-8939-93128a1bb7e4)
+<br>Stage 3:
 
-<br>Stage3
+[Video: bandicam.2023-12-05.20-06-38-881.mp4](https://github.com/raphy0316/WhoAmI/assets/26518769/04d5b877-db44-4aeb-8953-6844affeb57e)
 
-
-https://github.com/raphy0316/WhoAmI/assets/26518769/04d5b877-db44-4aeb-8953-6844affeb57e
-
-
-<Store>
- <br>
-<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/5feebe47-3069-4118-b0aa-cfac1082ab4f" width="369" height="162"/>
-<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/af1141a7-6efa-4a39-a8a9-3bb113960b0c" width="369" height="162"/>
-<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/686065b8-0655-4f2e-99d9-d266bc0ebb13" width="369" height="162"/>
-
-You can purchase items by combining letters or selling letters. Items include a potion that restores Hp, a scroll that randomly informs you of a combination of letters that can enhance a character, and a random box.
- 
-  <br>
- <br>
-<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/5a749be8-92f3-4734-b2c5-3149ce1d25be" width="369" height="162"/>
- <br>
- It is a monument where you can see the best record so far.<br>
-<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/4311ef9b-49cd-4034-9ab3-8c799baa1f14" width="369" height="162"/>
- <br>
- When you pass stage 3, the game ends with an ending animation.
-<br><br>
-How to play? <br>
-You can play this game through the FullScreen-Engine Final or the WindowedView-Engine Final.
 <br>
+5, Items and Store:<br>
+Purchase items by combining letters or selling letters.<br>
+<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/5feebe47-3069-4118-b0aa-cfac1082ab4f" width="369" height="162"/><br>
+Items include potions for HP restoration, scrolls revealing letter combinations, and random boxes.<br>
+<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/af1141a7-6efa-4a39-a8a9-3bb113960b0c" width="369" height="162"/><br>
+Put the combined words into the character<br>
+<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/686065b8-0655-4f2e-99d9-d266bc0ebb13" width="369" height="162"/><br>
 <br>
-Manual
-
-
-Store stage<br>
-a,d - move<br>
-space - jump<br>
-z - open store, open monument<br>
-
-
-
-Running stage<br>
-↓ - slide<br>
-space - jump<br>
-Q - Use postion to heal hp<br>
-space space - double jump<br>
+6, Monument:<br>
+<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/5a749be8-92f3-4734-b2c5-3149ce1d25be" width="369" height="162"/><br>
+Access the monument to view the best record achieved so far.<br>
+7, Ending:<br>
+<img src="https://github.com/raphy0316/WhoAmI/assets/26518769/4311ef9b-49cd-4034-9ab3-8c799baa1f14" width="369" height="162"/><br>
+The game concludes with an ending animation after passing Stage 3.<br>
+<br>
+How to Play:<br>
+Play the game through either FullScreen-Engine Final or WindowedView-Engine Final.<br>
+<br>
+Store Stage:<br>
+a,d: Move<br>
+space: Jump<br>
+z: Open store, open monument<br>
+<br>
+Running Stage:<br>
+↓: Slide<br>
+space: Jump<br>
+Q: Use potion to heal HP<br>
+space space: Double jump<br>
